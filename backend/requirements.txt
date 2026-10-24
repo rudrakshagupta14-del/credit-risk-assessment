@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+joblib
+xgboost
+scikit-learn
+psycopg[binary]
+python-dotenv
