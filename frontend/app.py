@@ -2,7 +2,7 @@
 import requests
 import streamlit as st
 from css import apply_css
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://api.example.com/predict"
 st.set_page_config(
     page_title="Credit Risk Assessment",
     page_icon="📊",
